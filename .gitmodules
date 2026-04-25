@@ -1,0 +1,6 @@
+[submodule "QNN"]
+	path = QNN
+	url = https://github.com/StefanOctavian/ALJV-Mancala-AI
+[submodule "Unity"]
+	path = Unity
+	url = https://github.com/StefanOctavian/ALJV-Mancala-Unity
